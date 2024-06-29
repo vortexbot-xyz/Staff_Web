@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function() {
-    fetch('documentation.json') // Assuming your JSON file is named 'documentation.json'
+    fetch('documentation.jsonc') // Assuming your JSON file is named 'documentation.json'
         .then(response => response.json())
         .then(data => {
             data.pages.forEach(page => {
