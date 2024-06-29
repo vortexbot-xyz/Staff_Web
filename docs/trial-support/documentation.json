@@ -1,0 +1,21 @@
+{
+    "pages": [
+        {
+            "title": "Introduction",
+            "content": "<p>This is the introduction page.</p>"
+        },
+        {
+            "title": "Getting Started",
+            "content": "<p>Here are the steps to get started.</p>"
+        },
+        {
+            "title": "API Reference",
+            "content": "<p>Details about the API.</p>"
+        },
+        {
+            "title": "Examples",
+            "content": "<p>Some example usage.</p>"
+        }
+        // Add more pages as needed
+    ]
+}
